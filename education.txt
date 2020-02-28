@@ -1,0 +1,7 @@
+bachelors
+masters
+science
+college
+university
+engineering
+You can also add college names here

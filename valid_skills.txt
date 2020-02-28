@@ -1,0 +1,10 @@
+html
+css
+javascript
+data science
+machine learning
+artificial intelligence
+python
+c
+c++
+Any other skills can be added - the skill should be in lower case.
